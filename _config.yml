@@ -1,4 +1,5 @@
-remote_theme: TaylanTatli/Moon
+theme: jekyll-theme-slate
+
 title: Adventure Feast Series
 description: We go on an adventure, then we eat a feast!
 
